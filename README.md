@@ -23,7 +23,7 @@ cd myexercise
 source venv/bin/activate
 
 ## Install backend dependencies
-pip install -r requirements/base.txt
+pip install -r requirements.txt
 
 ## Load data
 python3 manage.py etl <project directory>/coding-exercise/myexercise/myexercise/community/management/commands/United_States_COVID19_Community_Levels_by_County.csv County
