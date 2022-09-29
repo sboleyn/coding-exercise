@@ -1,0 +1,19 @@
+{
+  "name": "myexercise",
+  "version": "1.0.0",
+  "description": "Coding exercise for CyVerse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sboleyn/coding-exercise.git"
+  },
+  "author": "Samantha Boleyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sboleyn/coding-exercise/issues"
+  },
+  "homepage": "https://github.com/sboleyn/coding-exercise#readme"
+}
