@@ -1,0 +1,4 @@
+
+Django==3.2.15
+djangorestframework==3.12.4
+pandas==1.5.0
